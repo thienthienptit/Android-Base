@@ -74,10 +74,10 @@ GOOD:<br/>
 `vn.ezteam.audio`
 
 ## **Classes & Interfaces**
-Written in UpperCamelCase. For example BaseCallAdapter.
+Written in `UpperCamelCase`. For example `BaseCallAdapter`.
 
 ## **Methods**
-Written in lowerCamelCase. For example setValue.
+Written in `lowerCamelCase`. For example `setValue`.
 
 ## **Fields**
 Generally, written in lowerCamelCase. Fields should not be named with Hungarian notation, as Hungarian notation is erroneously thought to be recommended by Google.<br/>
